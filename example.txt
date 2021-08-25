@@ -1,0 +1,11 @@
+f_name:test
+l_name:test
+email:test@asfdasfdfs.com
+lp: BITC-UP-VIP
+lp_url:bitcointsystems.com/
+t_geo:RU
+lang:RU
+pixel_id:0
+token:tok_5fd0fe5cce3bc0.92534411
+phone2:79123456456
+params:**pixel_id*0
